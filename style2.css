@@ -1,0 +1,66 @@
+#background{
+    background-image: url(fundo.png);
+    background-repeat: no-repeat;
+    background-color: #e4f2e4;
+    background-position-x: center;
+}
+#conteudo{
+    width: 500px;
+    background-color: #8c5664;
+    margin-top: 160px;
+    padding-top: 0%;
+    padding: 10px;
+    color: #e4f2e4;
+    line-height: 1.5;
+}
+#tabela{
+    width: 500px;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    font-size: 14;
+    line-height: 1.5;
+    background-color: #e4f2e4;
+    color: #8c5664;
+}
+#titulo4{
+    letter-spacing: .2rem;
+    word-spacing: 5px;
+    font-family: Candara;
+    text-align: left;
+}
+#texto4{
+    font-family: Calibri;
+    text-align: justify;
+    text-size-adjust: 18cm;
+    line-height: 1.5;
+    font-style: italic;
+}
+a{
+    font-family: Calibri;
+    text-align: justify;
+    text-size-adjust: 18cm;
+    font-weight: bold;
+    color:  #e4f2e4;
+    font-style: italic;
+    text-decoration: solid;
+}
+a:link{
+    font-family: Calibri;
+    text-align: justify;
+    text-size-adjust: 18cm;
+    font-weight: bold;
+}
+a:hover{
+    font-family: Calibri;
+    text-align: justify;
+    text-size-adjust: 18cm;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: underline;
+}
+#endereço{
+    text-align: left;
+}
+#voltar{
+    text-align: left;
+}
